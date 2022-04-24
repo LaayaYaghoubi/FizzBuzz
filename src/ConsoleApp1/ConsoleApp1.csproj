@@ -5,8 +5,4 @@
     <TargetFramework>net5.0</TargetFramework>
   </PropertyGroup>
 
-  <ItemGroup>
-    <ProjectReference Include="..\FizzBuzz.Logics\FizzBuzz.Logics.csproj" />
-  </ItemGroup>
-
 </Project>
