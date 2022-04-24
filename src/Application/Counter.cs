@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace Application
 {
-    
+
     public class Counter
     {
         private readonly FizzBuzzGame _game;
